@@ -1,0 +1,24 @@
+body{
+    padding-top: 200px;
+	background-color: rgb(247, 191, 135);
+	color: rgb(255, 0, 0);
+
+    width: 60%;
+    margin: auto;
+}
+
+a {
+	color: rgb(255, 0, 0)
+}
+
+a:hover{
+    background-color: rgb(128, 0, 109);
+}
+
+.download.whitearmor.jpg{
+    text-align: center;
+}
+
+.back{
+    text-align: center;
+}

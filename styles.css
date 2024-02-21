@@ -1,0 +1,23 @@
+body{
+    font-size: 32px;
+    color: blue;
+    background-color: bisque;
+}
+
+.container{
+    padding-top: 200px;
+    width: 40%;
+    margin: auto;
+}
+
+a{
+    color: aqua;
+}
+
+a:visited{
+    color: brown;
+}
+
+li{
+    list-style: none;
+}

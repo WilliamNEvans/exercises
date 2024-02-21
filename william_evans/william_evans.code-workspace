@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/multipage-site-example/multipage-site-example/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "william_evans",
+		"liveServer.settings.port": 5501
+	}
+}
